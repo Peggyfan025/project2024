@@ -1,0 +1,11 @@
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
