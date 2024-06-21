@@ -41,7 +41,7 @@ li {
 .video {
     position: relative;
     margin: auto;
-    top: 340%;
+    top: 370%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
