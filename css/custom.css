@@ -39,7 +39,7 @@ li {
     background-color: honeydew;
 }
 .video {
-    position: absolute;
+    position: relative;
     margin: auto;
     top: 340%;
     left: 50%;
