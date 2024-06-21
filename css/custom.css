@@ -42,7 +42,6 @@ li {
     position: relative;
     margin: auto;
     left: 50%;
-    transform: translate(-20%);
 }
 .content{
     font-size: 20px;
