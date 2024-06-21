@@ -39,9 +39,9 @@ li {
     background-color: honeydew;
 }
 .video {
-    position: relative;
+    position: absolute;
     margin: auto;
-    top: 370%;
+    top: 330%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
